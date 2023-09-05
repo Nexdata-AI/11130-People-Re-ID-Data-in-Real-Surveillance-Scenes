@@ -4,7 +4,8 @@
 ## Description
 11,130 People - Re-ID Data in Real Surveillance Scenes. The data includes indoor scenes and outdoor scenes. The data includes males and females, and the age distribution is from children to the elderly. The data diversity includes different age groups, different time periods, different shooting angles, different human body orientations and postures, clothing for different seasons. For annotation, the rectangular bounding boxes and 15 attributes of human body were annotated. This data can be used for re-id and other tasks.
 
-For more details, please refer to the link: https://bit.ly/3C9PrUo
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1160?source=Github
+
 
 ## Data size
 11,130 people, about 10-27 images per person
