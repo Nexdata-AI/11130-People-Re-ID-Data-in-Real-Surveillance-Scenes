@@ -32,4 +32,4 @@ human body rectangular bounding boxes, 15 human body attributes
 A rectangular bounding box of human body is qualified when the deviation is not more than 3 pixels, and the qualified rate of the bounding boxes shall not be lower than 97%;Annotation accuracy of attributes is over 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
